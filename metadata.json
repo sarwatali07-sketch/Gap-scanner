@@ -1,0 +1,6 @@
+{
+  "name": "Exam Gap Finder",
+  "description": "An AI-powered study companion, revision planner, and exam gap analyzer that helps middle school, high school, and college students identify weaknesses and master their subjects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
